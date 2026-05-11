@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2DFC1E-4827-4615-8A27-760F27800C7F}|Ejercicio10\\Ejercicio10.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana3\\Ejercicio10\\Ejercicio10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF2DFC1E-4827-4615-8A27-760F27800C7F}|Ejercicio10\\Ejercicio10.vcxproj|solutionrelative:Ejercicio10\\Ejercicio10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162082CB-20D5-4804-A309-2F45A73AA77D}|Ejercicio1\\Ejercicio1.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana3\\Ejercicio1\\Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{162082CB-20D5-4804-A309-2F45A73AA77D}|Ejercicio1\\Ejercicio1.vcxproj|solutionrelative:Ejercicio1\\Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio10.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana3\\Ejercicio10\\Ejercicio10.cpp",
+              "RelativeDocumentMoniker": "Ejercicio10\\Ejercicio10.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana3\\Ejercicio10\\Ejercicio10.cpp",
+              "RelativeToolTip": "Ejercicio10\\Ejercicio10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T21:04:32.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio1.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana3\\Ejercicio1\\Ejercicio1.cpp",
+              "RelativeDocumentMoniker": "Ejercicio1\\Ejercicio1.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana3\\Ejercicio1\\Ejercicio1.cpp",
+              "RelativeToolTip": "Ejercicio1\\Ejercicio1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T20:35:15.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

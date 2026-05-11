@@ -1,0 +1,6 @@
+﻿  Solucion.cpp
+D:\UPC\INTRODUCCION A LOS ALGORITMOS\Ejercicios\PC1\Solucion\Solucion.cpp(14,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\UPC\INTRODUCCION A LOS ALGORITMOS\Ejercicios\PC1\Solucion\Solucion.cpp(18,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\UPC\INTRODUCCION A LOS ALGORITMOS\Ejercicios\PC1\Solucion\Solucion.cpp(22,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\UPC\INTRODUCCION A LOS ALGORITMOS\Ejercicios\PC1\Solucion\Solucion.cpp(26,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Solucion.vcxproj -> D:\UPC\INTRODUCCION A LOS ALGORITMOS\Ejercicios\PC1\x64\Debug\Solucion.exe
