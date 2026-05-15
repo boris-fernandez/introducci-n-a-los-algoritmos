@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11203AF-E487-4841-BA59-77D920944890}|Solucion4\\Solucion4.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion4\\Solucion4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E11203AF-E487-4841-BA59-77D920944890}|Solucion4\\Solucion4.vcxproj|solutionrelative:Solucion4\\Solucion4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966CD60C-8C4B-4B52-B22D-C1A6F078E472}|Solucion3\\Solucion3.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion3\\Solucion3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{966CD60C-8C4B-4B52-B22D-C1A6F078E472}|Solucion3\\Solucion3.vcxproj|solutionrelative:Solucion3\\Solucion3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4058FD-7874-4525-A06C-37519F5B5B14}|Solucion2\\Solucion2.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion2\\Solucion2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D4058FD-7874-4525-A06C-37519F5B5B14}|Solucion2\\Solucion2.vcxproj|solutionrelative:Solucion2\\Solucion2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F46B7D0-40E6-40E7-8210-6651251D8708}|Solucion\\Solucion.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion\\Solucion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F46B7D0-40E6-40E7-8210-6651251D8708}|Solucion\\Solucion.vcxproj|solutionrelative:Solucion\\Solucion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solucion4.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion4\\Solucion4.cpp",
+              "RelativeDocumentMoniker": "Solucion4\\Solucion4.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion4\\Solucion4.cpp*",
+              "RelativeToolTip": "Solucion4\\Solucion4.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T20:57:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solucion3.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion3\\Solucion3.cpp",
+              "RelativeDocumentMoniker": "Solucion3\\Solucion3.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion3\\Solucion3.cpp",
+              "RelativeToolTip": "Solucion3\\Solucion3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T20:52:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solucion2.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion2\\Solucion2.cpp",
+              "RelativeDocumentMoniker": "Solucion2\\Solucion2.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion2\\Solucion2.cpp",
+              "RelativeToolTip": "Solucion2\\Solucion2.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T20:39:27.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solucion.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion\\Solucion.cpp",
+              "RelativeDocumentMoniker": "Solucion\\Solucion.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\PC1\\Solucion\\Solucion.cpp",
+              "RelativeToolTip": "Solucion\\Solucion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T20:29:20.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

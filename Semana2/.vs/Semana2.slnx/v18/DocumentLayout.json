@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77EA7F-ECE8-4ECE-87F9-5E191358958A}|Ejercicio11\\Ejercicio11.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio11\\Ejercicio11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB77EA7F-ECE8-4ECE-87F9-5E191358958A}|Ejercicio11\\Ejercicio11.vcxproj|solutionrelative:Ejercicio11\\Ejercicio11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9A82AE-0100-4178-A173-E1B99E63112C}|Ejercicio13\\Ejercicio13.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio13\\Ejercicio13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E9A82AE-0100-4178-A173-E1B99E63112C}|Ejercicio13\\Ejercicio13.vcxproj|solutionrelative:Ejercicio13\\Ejercicio13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821FD25F-A6E6-4BDB-BB7A-30B86CD23194}|Ejercicio3\\Ejercicio3.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio3\\Ejercicio3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{821FD25F-A6E6-4BDB-BB7A-30B86CD23194}|Ejercicio3\\Ejercicio3.vcxproj|solutionrelative:Ejercicio3\\Ejercicio3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio11.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio11\\Ejercicio11.cpp",
+              "RelativeDocumentMoniker": "Ejercicio11\\Ejercicio11.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio11\\Ejercicio11.cpp",
+              "RelativeToolTip": "Ejercicio11\\Ejercicio11.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T21:36:25.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio13.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio13\\Ejercicio13.cpp",
+              "RelativeDocumentMoniker": "Ejercicio13\\Ejercicio13.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio13\\Ejercicio13.cpp",
+              "RelativeToolTip": "Ejercicio13\\Ejercicio13.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T21:02:53.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio3.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio3\\Ejercicio3.cpp",
+              "RelativeDocumentMoniker": "Ejercicio3\\Ejercicio3.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Ejercicios\\Semana2\\Ejercicio3\\Ejercicio3.cpp",
+              "RelativeToolTip": "Ejercicio3\\Ejercicio3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T20:33:47.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

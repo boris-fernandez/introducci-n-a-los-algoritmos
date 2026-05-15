@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Animaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|solutionrelative:Animaciones\\Animaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Funciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|solutionrelative:Animaciones\\Funciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Opciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|solutionrelative:Animaciones\\Opciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Opciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|solutionrelative:Animaciones\\Opciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Funciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2146CD-0E19-C112-6113-C4503CEC6F13}|Animaciones\\Animaciones.vcxproj|solutionrelative:Animaciones\\Funciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opciones.h",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Opciones.h",
+              "RelativeDocumentMoniker": "Animaciones\\Opciones.h",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Opciones.h",
+              "RelativeToolTip": "Animaciones\\Opciones.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-08T20:23:05.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Opciones.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Opciones.cpp",
+              "RelativeDocumentMoniker": "Animaciones\\Opciones.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Opciones.cpp",
+              "RelativeToolTip": "Animaciones\\Opciones.cpp",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAAAGUBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-08T20:22:45.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animaciones.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Animaciones.cpp",
+              "RelativeDocumentMoniker": "Animaciones\\Animaciones.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Animaciones.cpp*",
+              "RelativeToolTip": "Animaciones\\Animaciones.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-08T16:22:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funciones.h",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Funciones.h",
+              "RelativeDocumentMoniker": "Animaciones\\Funciones.h",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Funciones.h",
+              "RelativeToolTip": "Animaciones\\Funciones.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-08T16:10:47.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funciones.cpp",
+              "DocumentMoniker": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Funciones.cpp",
+              "RelativeDocumentMoniker": "Animaciones\\Funciones.cpp",
+              "ToolTip": "D:\\UPC\\INTRODUCCION A LOS ALGORITMOS\\Semana05\\Animaciones\\Funciones.cpp",
+              "RelativeToolTip": "Animaciones\\Funciones.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T23:48:47.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
